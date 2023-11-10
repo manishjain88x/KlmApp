@@ -1,0 +1,102 @@
+{
+  "bookingList": [
+    {
+      "id": 1,
+      "destination": "Pau - Lisbon",
+      "dateRange": "From Oct 21 to Nov 18, 2023",
+      "numberOfPassengers": 1,
+      "tripType": "Round trip",
+      "departureTime": "Sat, Oct 21",
+      "bookingReferenceNumber": "rjreyz",
+      "totalTripDuration": "5h10",
+      "bookingTimeLine": [
+        {
+          "date": "Sat, Oct 21",
+          "time": "08:00",
+          "airportName": "Pau, Pau Pyrenees Airport",
+          "isTimeUpdated": true,
+          "updatedTime": "07:01",
+          "haveTransferTime": false,
+          "transferTime": ""
+        },
+        {
+          "date": "Sat, Oct 21",
+          "time": "08:35",
+          "airportName": "Paris, Paris-Charles de Gaulle airport",
+          "isTimeUpdated": true,
+          "updatedTime": "08:31",
+          "haveTransferTime": false,
+          "transferTime": ""
+        },
+        {
+          "date": "Sat, Oct 21",
+          "time": "08:35",
+          "airportName": "Paris, Paris-Charles de Gaulle airport",
+          "isTimeUpdated": true,
+          "updatedTime": "08:31",
+          "haveTransferTime": true,
+          "transferTime": "1h00"
+        },
+        {
+          "date": "Sat, Oct 21",
+          "time": "09:35",
+          "airportName": "Paris, Paris-Charles de Gaulle airport",
+          "isTimeUpdated": true,
+          "updatedTime": "09:54",
+          "haveTransferTime": false,
+          "transferTime": ""
+        }
+      ],
+      "imageUrl": "https://c8.alamy.com/comp/2C04WDA/famous-medieval-fortified-tower-in-lisbon-belem-fort-attraction-in-portugal-2C04WDA.jpg"
+    },
+    {
+      "id": 2,
+      "destination": "Toulouse - Amsterdam",
+      "dateRange": "From Nov 09 to Nov 30, 2023",
+      "numberOfPassengers": 2,
+      "tripType": "One way trip",
+      "departureTime": "Thur, Nov 09",
+      "bookingReferenceNumber": "rjlopz",
+      "totalTripDuration": "5h10",
+      "bookingTimeLine": [
+        {
+          "date": "Thur, Nov 09",
+          "time": "08:00",
+          "airportName": "Toulouse Airport",
+          "isTimeUpdated": false,
+          "updatedTime": "08:10",
+          "haveTransferTime": false,
+          "transferTime": ""
+        },
+        {
+          "date": "Thur, Nov 09",
+          "time": "08:00",
+          "airportName": "Toulouse Airport",
+          "isTimeUpdated": false,
+          "updatedTime": "08:10",
+          "haveTransferTime": false,
+          "transferTime": ""
+        },
+        {
+          "date": "Thur, Nov 09",
+          "time": "08:35",
+          "airportName": "Paris, Paris-Charles de Gaulle airport",
+          "isTimeUpdated": true,
+          "updatedTime": "08:31",
+          "haveTransferTime": true,
+          "transferTime": "1h00"
+        },
+        {
+          "date": "Thur, Nov 09",
+          "time": "09:30",
+          "airportName": "Amsterdamō Airport",
+          "isTimeUpdated": true,
+          "updatedTime": "09:40",
+          "haveTransferTime": false,
+          "transferTime": ""
+        }
+      ],
+      "imageUrl": "https://t4.ftcdn.net/jpg/02/97/78/03/360_F_297780357_pK8VCA7wctbTFusAGiCfcoxbJLRwC9Bs.jpg"
+    }
+  ]
+}

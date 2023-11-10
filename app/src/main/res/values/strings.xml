@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KlmApp</string>
+    <string name="home">Home</string>
+    <string name="bookings">Bookings</string>
+    <string name="booking">Booking</string>
+    <string name="welcome_msg">Welcome to AFKLM App</string>
+    <string name="arrived">Arrived</string>
+    <string name="transfer_time">Transfer time <b>%s</b></string>
+    <string name="fab_msg">FAB Clicked</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="totalDuration">Total trip duration</string>
+    <string name="current_tab">Current</string>
+    <string name="past_tab">PAST</string>
+    <string name="booking_reference">Booking reference</string>
+    <string name="departure">Departure</string>
+    <string name="loading">Loading ...</string>
+</resources>
